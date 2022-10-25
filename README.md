@@ -12,9 +12,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="100" width="100" src="https://www.beabadohtml.com.br/midias/imagens/html5.png">
-  <img align="center" height="100" width="100" src="https://www.beabadohtml.com.br/midias/imagens/js.png">
-  <img align="center" height="100" width="100" src="https://www.beabadohtml.com.br/midias/imagens/css3.png">
+  <img align="center" height="90" width="90" src="https://www.beabadohtml.com.br/midias/imagens/html5.png">
+  <img align="center" height="90" width="90" src="https://www.beabadohtml.com.br/midias/imagens/js.png">
+  <img align="center" height="90" width="90" src="https://www.beabadohtml.com.br/midias/imagens/css3.png">
  
 </div>
 
