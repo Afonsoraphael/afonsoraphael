@@ -15,6 +15,7 @@
   <img align="center" height="90" width="90" src="https://www.beabadohtml.com.br/midias/imagens/html5.png">
   <img align="center" height="90" width="90" src="https://www.beabadohtml.com.br/midias/imagens/js.png">
   <img align="center" height="90" width="90" src="https://www.beabadohtml.com.br/midias/imagens/css3.png">
+  <img align="center" height="90" width="90" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
  
 </div>
 
